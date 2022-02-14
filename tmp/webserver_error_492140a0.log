@@ -1,0 +1,7 @@
+[Mon Feb 14 14:53:00.952102 2022] [core:warn] [pid 10992:tid 588] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/ToDo/tmp/webserver.conf.
+[Mon Feb 14 14:53:03.069879 2022] [mpm_winnt:notice] [pid 10992:tid 588] AH00455: Apache/2.4.41 (Win32) PHP/7.2.22 configured -- resuming normal operations
+[Mon Feb 14 14:53:03.069879 2022] [mpm_winnt:notice] [pid 10992:tid 588] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 11:47:29
+[Mon Feb 14 14:53:03.069879 2022] [core:notice] [pid 10992:tid 588] AH00094: Command line: 'C:\\Program Files (x86)\\PHPRunner10.7\\EmbeddedServer\\bin\\httpd.exe -d C:/Program Files (x86)/PHPRunner10.7/EmbeddedServer -d C:\\Program Files (x86)\\PHPRunner10.7\\EmbeddedServer -f C:\\Projects\\ToDo\\tmp\\webserver.conf'
+[Mon Feb 14 14:53:03.077691 2022] [mpm_winnt:notice] [pid 10992:tid 588] AH00418: Parent: Created child process 18712
+[Mon Feb 14 14:53:04.025877 2022] [core:warn] [pid 18712:tid 232] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/ToDo/tmp/webserver.conf.
+[Mon Feb 14 14:53:04.905844 2022] [core:warn] [pid 18712:tid 232] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/ToDo/tmp/webserver.conf.

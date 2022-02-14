@@ -1,0 +1,2 @@
+
+Runner.pages.PageSettings.addPageEvent('activities',Runner.pages.constants.PAGE_LIST,"afterPageReady",function(pageObj,proxy,pageid,inlineRow,inlineObject,row){this.on('afterInlineEdit',function(fieldsData){location.reload();});;});
